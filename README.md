@@ -38,6 +38,7 @@ Run the tool:
 ./install.sh
 ```
 Then type  "SPA" to run the tool anywhere in your  terminal 
+![Logo](assets/logo.png)
 ---
 ⚡ Usage
 
